@@ -9,5 +9,4 @@ BotInit();
 
 module.exports = {
   BotInit,
-  TGes,
 };
